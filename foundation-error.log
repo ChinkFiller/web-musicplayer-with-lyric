@@ -1,0 +1,46 @@
+[Fri Dec 15 23:50:34.803452 2023] [wsgi:error] [pid 82418] [client 112.224.204.218:4231] Building prefix dict from the default dictionary ..., referer: http://124.223.171.219/elderly/?page=elder_find
+[Fri Dec 15 23:50:34.803514 2023] [wsgi:error] [pid 82418] [client 112.224.204.218:4231] DEBUG:jieba:Building prefix dict from the default dictionary ..., referer: http://124.223.171.219/elderly/?page=elder_find
+[Fri Dec 15 23:50:35.625204 2023] [wsgi:error] [pid 82418] [client 112.224.204.218:4231] Dumping model to file cache /tmp/jieba.cache, referer: http://124.223.171.219/elderly/?page=elder_find
+[Fri Dec 15 23:50:35.625254 2023] [wsgi:error] [pid 82418] [client 112.224.204.218:4231] DEBUG:jieba:Dumping model to file cache /tmp/jieba.cache, referer: http://124.223.171.219/elderly/?page=elder_find
+[Fri Dec 15 23:50:35.694741 2023] [wsgi:error] [pid 82418] [client 112.224.204.218:4231] Loading model cost 0.891 seconds., referer: http://124.223.171.219/elderly/?page=elder_find
+[Fri Dec 15 23:50:35.694775 2023] [wsgi:error] [pid 82418] [client 112.224.204.218:4231] DEBUG:jieba:Loading model cost 0.891 seconds., referer: http://124.223.171.219/elderly/?page=elder_find
+[Fri Dec 15 23:50:35.694806 2023] [wsgi:error] [pid 82418] [client 112.224.204.218:4231] Prefix dict has been built successfully., referer: http://124.223.171.219/elderly/?page=elder_find
+[Fri Dec 15 23:50:35.694818 2023] [wsgi:error] [pid 82418] [client 112.224.204.218:4231] DEBUG:jieba:Prefix dict has been built successfully., referer: http://124.223.171.219/elderly/?page=elder_find
+[Sat Dec 16 04:14:11.801186 2023] [php:warn] [pid 86157] [client 80.79.117.42:61000] PHP Warning:  Undefined array key "host" in /var/www/html/wp-includes/canonical.php on line 704
+[Sat Dec 16 04:14:11.801226 2023] [php:warn] [pid 86157] [client 80.79.117.42:61000] PHP Warning:  Undefined array key "host" in /var/www/html/wp-includes/canonical.php on line 715
+[Sat Dec 16 04:14:11.801231 2023] [php:warn] [pid 86157] [client 80.79.117.42:61000] PHP Warning:  Undefined array key "host" in /var/www/html/wp-includes/canonical.php on line 718
+[Sat Dec 16 04:14:11.801235 2023] [php:warn] [pid 86157] [client 80.79.117.42:61000] PHP Warning:  Undefined array key "scheme" in /var/www/html/wp-includes/canonical.php on line 739
+[Sat Dec 16 04:14:11.801300 2023] [php:warn] [pid 86157] [client 80.79.117.42:61000] PHP Warning:  Undefined array key "host" in /var/www/html/wp-includes/canonical.php on line 704
+[Sat Dec 16 04:14:11.801307 2023] [php:warn] [pid 86157] [client 80.79.117.42:61000] PHP Warning:  Undefined array key "host" in /var/www/html/wp-includes/canonical.php on line 715
+[Sat Dec 16 04:14:11.801310 2023] [php:warn] [pid 86157] [client 80.79.117.42:61000] PHP Warning:  Undefined array key "host" in /var/www/html/wp-includes/canonical.php on line 718
+[Sat Dec 16 04:14:11.801314 2023] [php:warn] [pid 86157] [client 80.79.117.42:61000] PHP Warning:  Undefined array key "scheme" in /var/www/html/wp-includes/canonical.php on line 739
+[Sat Dec 16 05:50:09.989095 2023] [php:warn] [pid 86158] [client 198.235.24.225:53750] PHP Warning:  Undefined array key "host" in /var/www/html/wp-includes/canonical.php on line 704
+[Sat Dec 16 05:50:09.989134 2023] [php:warn] [pid 86158] [client 198.235.24.225:53750] PHP Warning:  Undefined array key "host" in /var/www/html/wp-includes/canonical.php on line 715
+[Sat Dec 16 05:50:09.989140 2023] [php:warn] [pid 86158] [client 198.235.24.225:53750] PHP Warning:  Undefined array key "host" in /var/www/html/wp-includes/canonical.php on line 718
+[Sat Dec 16 05:50:09.989147 2023] [php:warn] [pid 86158] [client 198.235.24.225:53750] PHP Warning:  Undefined array key "scheme" in /var/www/html/wp-includes/canonical.php on line 739
+[Sat Dec 16 05:50:09.989202 2023] [php:warn] [pid 86158] [client 198.235.24.225:53750] PHP Warning:  Undefined array key "host" in /var/www/html/wp-includes/canonical.php on line 704
+[Sat Dec 16 05:50:09.989208 2023] [php:warn] [pid 86158] [client 198.235.24.225:53750] PHP Warning:  Undefined array key "host" in /var/www/html/wp-includes/canonical.php on line 715
+[Sat Dec 16 05:50:09.989220 2023] [php:warn] [pid 86158] [client 198.235.24.225:53750] PHP Warning:  Undefined array key "host" in /var/www/html/wp-includes/canonical.php on line 718
+[Sat Dec 16 05:50:09.989224 2023] [php:warn] [pid 86158] [client 198.235.24.225:53750] PHP Warning:  Undefined array key "scheme" in /var/www/html/wp-includes/canonical.php on line 739
+[Sat Dec 16 19:18:35.131779 2023] [php:error] [pid 216601] [client 44.200.113.38:45446] script '/var/www/html/gate.php' not found or unable to stat
+[Sat Dec 16 21:13:54.724016 2023] [php:warn] [pid 378399] [client 172.233.48.151:60000] PHP Warning:  Undefined array key "host" in /var/www/html/wp-includes/canonical.php on line 704
+[Sat Dec 16 21:13:54.724054 2023] [php:warn] [pid 378399] [client 172.233.48.151:60000] PHP Warning:  Undefined array key "host" in /var/www/html/wp-includes/canonical.php on line 715
+[Sat Dec 16 21:13:54.724059 2023] [php:warn] [pid 378399] [client 172.233.48.151:60000] PHP Warning:  Undefined array key "host" in /var/www/html/wp-includes/canonical.php on line 718
+[Sat Dec 16 21:13:54.724063 2023] [php:warn] [pid 378399] [client 172.233.48.151:60000] PHP Warning:  Undefined array key "scheme" in /var/www/html/wp-includes/canonical.php on line 739
+[Sat Dec 16 21:13:54.724105 2023] [php:warn] [pid 378399] [client 172.233.48.151:60000] PHP Warning:  Undefined array key "host" in /var/www/html/wp-includes/canonical.php on line 704
+[Sat Dec 16 21:13:54.724110 2023] [php:warn] [pid 378399] [client 172.233.48.151:60000] PHP Warning:  Undefined array key "host" in /var/www/html/wp-includes/canonical.php on line 715
+[Sat Dec 16 21:13:54.724114 2023] [php:warn] [pid 378399] [client 172.233.48.151:60000] PHP Warning:  Undefined array key "host" in /var/www/html/wp-includes/canonical.php on line 718
+[Sat Dec 16 21:13:54.724119 2023] [php:warn] [pid 378399] [client 172.233.48.151:60000] PHP Warning:  Undefined array key "scheme" in /var/www/html/wp-includes/canonical.php on line 739
+[Sat Dec 16 23:39:39.121953 2023] [wsgi:error] [pid 430338] [client 112.224.175.233:55498] ERROR:main:Exception on /play_list [GET], referer: http://124.223.171.219/login/play_music?id=w8usfdd
+[Sat Dec 16 23:39:39.123058 2023] [wsgi:error] [pid 430338] [client 112.224.175.233:55498] Traceback (most recent call last):, referer: http://124.223.171.219/login/play_music?id=w8usfdd
+[Sat Dec 16 23:39:39.123067 2023] [wsgi:error] [pid 430338] [client 112.224.175.233:55498]   File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 1455, in wsgi_app, referer: http://124.223.171.219/login/play_music?id=w8usfdd
+[Sat Dec 16 23:39:39.123071 2023] [wsgi:error] [pid 430338] [client 112.224.175.233:55498]     response = self.full_dispatch_request(), referer: http://124.223.171.219/login/play_music?id=w8usfdd
+[Sat Dec 16 23:39:39.123075 2023] [wsgi:error] [pid 430338] [client 112.224.175.233:55498]   File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 869, in full_dispatch_request, referer: http://124.223.171.219/login/play_music?id=w8usfdd
+[Sat Dec 16 23:39:39.123078 2023] [wsgi:error] [pid 430338] [client 112.224.175.233:55498]     rv = self.handle_user_exception(e), referer: http://124.223.171.219/login/play_music?id=w8usfdd
+[Sat Dec 16 23:39:39.123081 2023] [wsgi:error] [pid 430338] [client 112.224.175.233:55498]   File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 867, in full_dispatch_request, referer: http://124.223.171.219/login/play_music?id=w8usfdd
+[Sat Dec 16 23:39:39.123084 2023] [wsgi:error] [pid 430338] [client 112.224.175.233:55498]     rv = self.dispatch_request(), referer: http://124.223.171.219/login/play_music?id=w8usfdd
+[Sat Dec 16 23:39:39.123087 2023] [wsgi:error] [pid 430338] [client 112.224.175.233:55498]   File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 852, in dispatch_request, referer: http://124.223.171.219/login/play_music?id=w8usfdd
+[Sat Dec 16 23:39:39.123090 2023] [wsgi:error] [pid 430338] [client 112.224.175.233:55498]     return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args), referer: http://124.223.171.219/login/play_music?id=w8usfdd
+[Sat Dec 16 23:39:39.123101 2023] [wsgi:error] [pid 430338] [client 112.224.175.233:55498]   File "/var/www/foundation/main.py", line 255, in back_json, referer: http://124.223.171.219/login/play_music?id=w8usfdd
+[Sat Dec 16 23:39:39.123104 2023] [wsgi:error] [pid 430338] [client 112.224.175.233:55498]     music_url,img_url,song_name,singer,lrc=music_finder.get_music_info(id), referer: http://124.223.171.219/login/play_music?id=w8usfdd
+[Sat Dec 16 23:39:39.123107 2023] [wsgi:error] [pid 430338] [client 112.224.175.233:55498] ValueError: not enough values to unpack (expected 5, got 4), referer: http://124.223.171.219/login/play_music?id=w8usfdd

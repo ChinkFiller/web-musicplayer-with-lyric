@@ -165,7 +165,7 @@ def login():
 @app.route('/',methods=['GET'])
 def index():
     if request.cookies.get('token') == None:
-        with open('/var/www/foundation/html_files/login_index.html','rb') as f:
+        with open('html_files/login_index.html','rb') as f:
             index_file=f.read()
         return index_file, 200
     else:
@@ -173,7 +173,7 @@ def index():
         if back:
             return redirect('/login/music',code=302)
         else:
-            with open('/var/www/foundation/html_files/login_index.html', 'rb') as f:
+            with open('html_files/login_index.html', 'rb') as f:
                 index_file = f.read()
             return index_file,200,{"Set-Cookie": "token=; Expires=Thu, 01 Jan 1970 00:00:00 GMT"}
 @app.route('/search_music',methods=['GET'])
@@ -240,12 +240,12 @@ def back():
 def main_player():
     if request.args.get('id')==None:
         return redirect('/login/music',code=302)
-    with open('/var/www/foundation/html_files/player_index.html', 'rb') as f:
+    with open('html_files/player_index.html', 'rb') as f:
         file = f.read()
     return file, 200
 @app.route("/music",methods=["GET"])
 def search():
-    with open('/var/www/foundation/html_files/search_index.html',"rb") as f:
+    with open('html_files/search_index.html',"rb") as f:
         file=f.read()
     return file,200
 @app.route('/play_list',methods=['GET'])
@@ -287,6 +287,8 @@ def collect():
         return '',401
 @app.route('/404',methods=["GET"])
 def error_s():
-    with open('/var/www/foundation/html_files/404.html', 'rb') as f:
+    with open('html_files/404.html', 'rb') as f:
         file = f.read()
     return file, 404
+if __name__ == '__main__':
+    app.run()
